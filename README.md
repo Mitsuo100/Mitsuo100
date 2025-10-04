@@ -1,7 +1,7 @@
 ## My name is Pedro Mitsuo :wave:
 
 **`Data Scientist and Backend Developer`**
-- Graduating in computer Science
+- Graduating in Computer Science
 - Always learning, developing my dev skills and dealing with challenges
 
 ## :computer: Tech Stack:
